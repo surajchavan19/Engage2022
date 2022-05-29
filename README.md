@@ -19,7 +19,7 @@ HTML, CSS, Bootstrap, JavaScript,Django, Python, SQLite, OpenCV, Spotify-API(Spo
 3) In the terminal open the directory in which the file is present
 4) Download the dependencies 
    ```python
-   pip3 install Django face-recognition cmake spotipy opencv-python
+   pip3 install django face-recognition cmake spotipy opencv-python
    ```
 5) python3 manage.py makemigrations
 6) python3 manage.py migrate
