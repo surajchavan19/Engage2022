@@ -28,7 +28,7 @@ HTML, CSS, Bootstrap, JavaScript,Django, Python, SQLite, OpenCV, Spotify-API(Spo
 ### On mobile
   To run the application the laptop and the phone should be connected to the same network
    ```python
-   http://(Laptop's IP address):/face/signupform
+   http://(Laptop's IP address):8000/face/signupform
    example: http://192.169.0.102:8000/face/signupform
    ```
    
