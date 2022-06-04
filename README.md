@@ -21,11 +21,10 @@ HTML, CSS, Bootstrap, JavaScript,Django, Python, SQLite, OpenCV, Spotify-API(Spo
    ```python
    pip3 install django face-recognition cmake spotipy opencv-python
    ```
-5) cd face
-6) python3 manage.py makemigrations
-7) python3 manage.py migrate
-8) python3 manage.py runserver 0.0.0.0:8000
-9) To open the web application
+5) python3 manage.py makemigrations
+6) python3 manage.py migrate
+7) python3 manage.py runserver 0.0.0.0:8000
+8) To open the web application
 ### Running on mobile
   To run the application the laptop where the server is running and the phone should be connected to the same network
    ```python
